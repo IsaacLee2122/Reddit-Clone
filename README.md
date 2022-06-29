@@ -19,12 +19,7 @@ Note: The backend is hosted on heroku free tier (https://weddit-backend.herokuap
 - ... and more to come!
 
 ## Screenshots
-<p align="center">
-  <a href="#">
-    <img src="./screenshot.png" alt="Comments page for a post">
-  </a>
-</p>
-
+<img width="1437" alt="Screen Shot 2022-06-29 at 3 39 43 AM" src="https://user-images.githubusercontent.com/99067082/176392577-aee9bc31-6445-4df3-9c54-097e42fbed0d.png">
 ## Installation
 1. Clone this repository
 
